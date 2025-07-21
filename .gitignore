@@ -1,5 +1,5 @@
-*.env
 *.ipynb
 *.csv
 venv/
 .env
+.log
