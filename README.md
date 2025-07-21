@@ -44,6 +44,13 @@ source venv/bin/activate
 The project contains two main configuration files:
 
 - **`config.py`**: Stores the list of Teams customer service groups to be counted as `TARGET_TEAMS`.
+- **Example Template**: Below is an example of `config.py`:
+```python
+TARGET_TEAMS = [
+    "your channel name1", "your channel name2"
+] 
+```
+
 - **`.env`**: Stores all sensitive information and environment-related configurations. **This file should NOT be committed to version control.**
 
 ### 2. Set Environment Variables (`.env`)
