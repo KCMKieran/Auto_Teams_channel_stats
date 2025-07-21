@@ -1,5 +1,9 @@
 # Teams Channel Statistics Project 
 
+# Author: Kieran
+# Data: 2024-03-20
+
+
 ## Project Overview
 This project automatically counts the number of messages in each Microsoft Teams channels for the past week, generates a CSV report, and automatically sends it via email to the designated recipient (rebecca).
 

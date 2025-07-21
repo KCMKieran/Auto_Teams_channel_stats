@@ -2,4 +2,4 @@
 *.csv
 venv/
 .env
-.log
+*.log
