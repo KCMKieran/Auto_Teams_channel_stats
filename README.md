@@ -1,7 +1,8 @@
 # Teams Channel Statistics Project 
 
-# Author: Kieran
-# Data: 2024-03-20
+**Author**: Kieran  
+**Last Updated**: 2025-07-21    
+**Email**: Kieran.xiang@kohleservices.com
 
 
 ## Project Overview
