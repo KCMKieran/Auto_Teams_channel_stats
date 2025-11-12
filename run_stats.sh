@@ -10,7 +10,7 @@
 set -e
 
 # 定义项目目录（请根据实际路径调整）
-PROJECT_DIR="/opt/channel_stats_for_rebecca/channel_stats"
+PROJECT_DIR="/opt/myproject/channel_stats_for_rebecca/channel_stats"
 
 # 定义日志函数
 log() {
